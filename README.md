@@ -11,3 +11,6 @@
   数据通过MindFormers llama7b模型，在alpaca_data上推理，收集第0层LLamaDecoderlayer输入输出10000条制作SEM Track数据集
 
 ## 运行SEM攻击
+```
+python sem_track.py --dataset_npz my_dataset_10_samples.npz
+```
