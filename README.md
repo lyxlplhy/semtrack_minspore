@@ -16,8 +16,10 @@
 python sem_track.py --dataset_npz my_dataset_10_samples.npz
 ```
 运行后截图
+
 ![image](https://github.com/user-attachments/assets/faa1b0a0-0ae2-4ca7-8700-0d20f1789331)
 
 生成攻击模型权重
+
 ![image](https://github.com/user-attachments/assets/5d9398ad-c36d-4fb9-9445-b36271671270)
 
